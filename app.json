@@ -1,0 +1,30 @@
+{
+  "expo": {
+    "name": "whatsapp 2",
+    "slug": "whatsapp_2",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/zapzap.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/init.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#900020"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#900020"
+      }
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    }
+  }
+}
